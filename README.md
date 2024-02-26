@@ -9,8 +9,8 @@ I got started in the tech industry as a data engineer for a healthcare finance c
 
 ### Things I'm interested in learning
 - Elisp/Emacs (always!)
-- Clojure
 - DevOps
 - Rust
+- Clojure
 - ML/AI
 - Ollama
