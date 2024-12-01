@@ -6,10 +6,3 @@ Hey I'm Charlie. I like writing software, exploring new (programming) languages 
 
 ### Things I'm working on
 I got started in the tech industry as a data engineer for a healthcare finance company. I am currently researching technical solutions to help hospitals and healthcare providers improve compliance coverage.
-
-### Things I'm interested in learning
-- Elisp/Emacs
-- DevOps
-- Clojure
-- ML/AI
-- Ollama
